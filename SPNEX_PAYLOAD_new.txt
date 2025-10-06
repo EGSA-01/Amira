@@ -1,0 +1,243 @@
+Board Information Report
+Filename     : D:\Work New\SPNeX_Updated\New folder\Payload_SPNEX (26_8_2024)\Payload_SPNEX (26_8_2024)\SPNEX_PAYLOAD_new.PcbDoc
+Date         : 8/27/2024
+Time         : 8:47:37 AM
+Time Elapsed : 00:00:01
+
+General
+    Board Size, 92mmx92mm
+    Components on board, 187
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 572
+    Connections routed, 572
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 1, 513, 0, 1660, 1, 16, 52, 0
+    VCC, 0, 0, 0, 217, 0, 0, 5, 0
+    GND, 0, 0, 0, 173, 0, 0, 2, 0
+    Bottom Layer, 1, 274, 0, 1245, 0, 15, 38, 0
+    Mechanical 1, 150, 0, 0, 327, 3, 0, 0, 34
+    Top 3D Body, 0, 0, 0, 4, 0, 0, 0, 1
+    Top Assembly, 0, 0, 0, 4, 1, 0, 0, 0
+    Top Courtyard, 0, 0, 0, 4, 0, 0, 0, 0
+    Mechanical 5, 0, 0, 0, 344, 86, 0, 0, 0
+    Top Component Center, 0, 0, 0, 2, 0, 0, 0, 0
+    Assembly Top, 0, 0, 0, 8, 32, 0, 0, 0
+    Assembly Bottom, 0, 0, 0, 68, 36, 0, 0, 0
+    Courtyard Top, 0, 0, 0, 8, 0, 0, 0, 0
+    Courtyard Bottom, 0, 0, 0, 68, 0, 0, 0, 0
+    Mechanical 13, 7, 0, 0, 421, 0, 0, 0, 109
+    Mechanical 14, 492, 0, 0, 752, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 552, 0, 0, 0, 0
+    Mechanical 16, 0, 0, 0, 308, 0, 0, 0, 0
+    Bottom Assembly, 0, 0, 0, 4, 1, 0, 0, 0
+    Bottom Courtyard, 0, 0, 0, 4, 0, 0, 0, 0
+    Bottom 3D Body, 0, 0, 0, 4, 0, 0, 0, 1
+    Bottom Component Center, 0, 0, 0, 2, 0, 0, 0, 0
+    Top Overlay, 31, 0, 0, 217, 193, 0, 0, 0
+    Bottom Overlay, 10, 0, 0, 284, 220, 0, 0, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 1, 0, 29, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 21, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 63, 493, 0, 0, 0, 1, 0
+count : 32
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 493
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 7.879, 5083.511, 62%
+    VCC, 10.176, 6565.148, 79%
+    GND, 11.473, 7401.968, 90%
+    Bottom Layer, 9.485, 6119.232, 74%
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 787, 0
+    0.3mm, 0, 103
+    0.4mm, 0, 382
+    0.5mm, 0, 8
+    0.9mm, 7, 0
+    1mm, 52, 0
+    3.4mm, 1, 0
+    3.4mm, 3, 0
+count : 8
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0.3mm, 103
+    0.3mm, 372
+    0.4mm, 52
+    0.4mm, 18
+    1.1mm, 7
+    1.6mm, 3
+    1.6mm, 1
+count : 7
+
+Mid Layer Annular Ring Size, Count
+    0.3mm, 103
+    0.3mm, 372
+    0.4mm, 52
+    0.4mm, 18
+    1.1mm, 7
+    1.6mm, 3
+    1.6mm, 1
+count : 7
+
+Bottom Layer Annular Ring Size, Count
+    0.3mm, 103
+    0.3mm, 372
+    0.4mm, 52
+    0.4mm, 18
+    1.1mm, 7
+    1.6mm, 3
+    1.6mm, 1
+count : 7
+
+Pad Solder Mask, Count
+    0mm, 302
+    0.0762mm, 12
+    0.1016mm, 532
+    0.5mm, 4
+count : 4
+
+Pad Paste Mask, Count
+    -2mm, 4
+    0mm, 846
+count : 2
+
+Pad Pwr/Gnd Expansion, Count
+    0.6mm, 850
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 850
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 850
+count : 1
+
+Pad Relief Entries, Count
+    4, 850
+count : 1
+
+Via Solder Mask, Count
+    0.1016mm, 493
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.6mm, 493
+count : 1
+
+Track Width, Count
+    0.05mm, 44
+    0.1mm, 304
+    0.127mm, 67
+    0.15mm, 73
+    0.2mm, 2797
+    0.254mm, 384
+    0.3mm, 752
+    0.34mm, 21
+    0.381mm, 12
+    0.4mm, 80
+    0.45mm, 9
+    0.5mm, 730
+    0.6mm, 155
+    0.622mm, 5
+    0.7mm, 293
+    0.8mm, 116
+    1mm, 512
+    1.016mm, 272
+    1.25mm, 6
+    1.285mm, 15
+    1.3mm, 2
+    1.5mm, 30
+    2mm, 1
+count : 23
+
+Arc Line Width, Count
+    0.1mm, 4
+    0.2mm, 9
+    0.25mm, 29
+    0.254mm, 156
+    0.3mm, 2
+    0.5mm, 338
+    0.6mm, 4
+    0.7mm, 150
+count : 8
+
+Arc Radius, Count
+    0.1mm, 6
+    0.125mm, 29
+    0.127mm, 154
+    0.2mm, 1
+    0.25mm, 338
+    0.3mm, 6
+    0.3455mm, 1
+    0.35mm, 150
+    0.5mm, 4
+    0.635mm, 2
+    5.4874mm, 1
+count : 11
+
+Arc Degrees, Count
+    0, 83
+    6, 66
+    7, 62
+    12, 32
+    13, 351
+    14, 1
+    45, 48
+    48, 1
+    180, 2
+    360, 46
+count : 10
+
+Text Height, Count
+    0.7mm, 1
+    0.8mm, 5
+    1mm, 368
+    1.524mm, 200
+count : 4
+
+Text Width, Count
+    0.1mm, 155
+    0.15mm, 3
+    0.17mm, 1
+    0.2mm, 203
+    0.254mm, 212
+count : 5
+
+Net Track Width, Count
+    0.15mm, 182
+    0.2mm, 5
+count : 2
+
+Net Via Size, Count
+    0.7mm, 187
+count : 1

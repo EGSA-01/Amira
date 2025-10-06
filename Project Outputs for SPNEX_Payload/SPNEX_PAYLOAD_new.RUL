@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: E:\Spenix\SPNEX_New_Version_Boards\Payload_SPNEX (25_8_2024)\SPNEX_PAYLOAD_new.PcbDoc
+RuleKind=Width|RuleName=Power_5|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Power_4|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Power_3|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Power_2|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Power_1|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=pol|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Power|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=RF|Scope=Board|Minimum=14.29
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91

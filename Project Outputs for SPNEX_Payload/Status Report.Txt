@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SPNEX_Payload.PrjPcb]
+   Generated File[SPNEX_PAYLOAD_new.TXT]
+   Generated File[SPNEX_PAYLOAD_new-BoardEdgeRout.TXT]
+   Generated File[SPNEX_PAYLOAD_new.LDP]
+   Generated File[SPNEX_PAYLOAD_new.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:29:02 AM On 8/26/2024
